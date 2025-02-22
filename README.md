@@ -1,5 +1,5 @@
 Kdog91's Projects Portfolio
-Welcome to my GitHub portfolio! I am Kdog91, a passionate developer with experience in various programming languages and agile methodologies. This repository showcases my projects spanning diverse domains—from creative applications to practical tools for everyday tasks. Below is an overview of my projects along with brief descriptions and links to their respective repositories.
+Welcome to my GitHub portfolio! I am Kevin, a passionate developer with experience in various programming languages and agile methodologies. This repository showcases my projects spanning diverse domains—from creative applications to practical tools for everyday tasks. Below is an overview of my projects along with brief descriptions and links to their respective repositories.
 
 Projects
 DiverseHireApp
