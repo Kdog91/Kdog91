@@ -1,76 +1,71 @@
-Kdog91's Projects Portfolio
-Welcome to my GitHub portfolio! I am Kevin, a passionate developer with experience in various programming languages and agile methodologies. This repository showcases my projects spanning diverse domains—from creative applications to practical tools for everyday tasks. Below is an overview of my projects along with brief descriptions and links to their respective repositories.
+📊 Kevin Simmons' Data Engineering Portfolio
 
-Projects
-DiverseHireApp
-Repository: DiverseHireApp
+Welcome to my GitHub portfolio! I’m Kevin, an aspiring Data Engineer with experience in building high-performance data pipelines, optimizing data structures, and engineering solutions to process large-scale datasets. This repository highlights a selection of my technical projects—spanning C++, Python, and SQL—focused on real-world data challenges, algorithm performance, and backend automation.
+
+🚀 Featured Projects
+
+🔧 Auction Bid Data Processor
 Description:
-A recruitment application designed to promote diversity and inclusion in the hiring process.
+A C++ application utilizing a custom singly linked list to store, search, and manage over 12,000 municipal auction bids. Built with efficient memory management (verified via Valgrind) and a command-line interface for end-to-end data operations.
 
-slide-show
-Repository: slide-show
+Key Features:
+
+O(1) append/prepend operations
+In-place CSV ingestion and cleanup
+Console interface for bid loading, searching, and deletion
+Tech: C++, Data Structures, Memory Optimization
+
+🧠 Hash-Based Bid Indexing System
 Description:
-A slideshow presentation project showcasing creative designs and transitions.
+Built a high-efficiency hash table with linked list chaining and FNV-1a hashing to enable constant-time lookup and insertions of auction bid data.
 
-Wall-Paint-Estimator
-Repository: Wall-Paint-Estimator
+Key Features:
+
+98% load factor efficiency
+Robust collision resolution
+Fast CSV-to-index data loading
+Tech: C++, Hash Algorithms, Data Indexing
+
+⚡ Bid Sorting Benchmark Tool
 Description:
-A Java-based application that calculates the amount of paint needed for a wall by taking user-provided dimensions as input.
+A benchmark system that compares QuickSort and Selection Sort over 12,000+ data records. Provides execution time metrics and performance visualizations for each algorithm.
 
-texbasegame.py
-Repository: texbasegame.py
+Key Features:
+
+CSV parsing and timing instrumentation
+Demonstrates 260x performance difference (0.04s vs. 10.6s)
+In-memory vector storage with custom benchmarking logic
+Tech: C++, Algorithms, Performance Tuning
+
+📈 Tableau-Driven KPI Dashboard (ETL Intern Project)
 Description:
-A text-based game implemented in Python, offering puzzles and interactive challenges.
+As part of my internship, I developed SQL-based ETL pipelines and created dynamic Tableau dashboards to monitor customer engagement metrics and backend data health.
 
-Banking-Investment-Calculator
-Repository: Banking-Investment-Calculator
+Key Contributions:
+
+Reduced report generation time by 35%
+Streamlined data quality using Python preprocessing
+Integrated live KPI dashboards used by executive team
+Tech: SQL, Python, Tableau, ETL Pipelines
+
+🏦 Banking Investment Calculator
 Description:
-A comprehensive tool that estimates future investment returns using both simple and compound interest calculations.
+A Python-based CLI tool for forecasting financial growth using both simple and compound interest formulas. Includes user input validation and summary generation.
 
-C--Debug
-Repository: C--Debug
-Description:
-A debugging tool/project in C/C++ designed to assist in troubleshooting and improving code quality.
+Tech: Python, Financial Math, CLI Tools
 
-Tempature-Converter
-Repository: Tempature-Converter
-Description:
-A simple application that converts temperature values between different units.
+📚 Other Projects (Honorable Mentions)
 
-Time-Manager-System
-Repository: Time-Manager-System
-Description:
-A system for managing time efficiently with scheduling and task tracking features.
+C--Debug: Debugging practice and memory toolkits in C++
+Time-Manager-System: CLI-based productivity and scheduling tracker
+algorithm-visualizer: Tool to visualize and animate search/sort algorithms
+credit-fix-app: Financial coaching app to assist users with credit strategy
+👨‍💻 About Me
 
-Pet-Management-Tool
-Repository: Pet-Management-Tool
-Description:
-A Java-based tool for tracking and managing pet information, including adoption, reservation, and status updates.
+I'm Kevin Simmons — a self-driven developer and data engineer-in-training with a passion for automating pipelines, optimizing performance, and building data-rich software systems. I’m committed to continuous learning and applying core computer science principles to real-world applications.
 
-travel-booking-software
-Repository: travel-booking-software
-Description:
-A travel booking application with innovative search functionalities and user-friendly features designed to enhance travel planning.
+📬 Contact
 
-Diverse
-Repository: Diverse
-Description:
-A project exploring themes of diversity and inclusion through creative software solutions.
-
-algorithm-visualizer
-Repository: algorithm-visualizer
-Description:
-A tool for visualizing various algorithms to aid in understanding their behavior and performance.
-
-credit-fix-app
-Repository: credit-fix-app
-Description:
-An application designed to help users manage and improve their credit scores through guided financial strategies.
-
-About Me
-I am Kdog91, a developer with a strong passion for creating innovative software solutions and exploring new technologies. My projects demonstrate my skills in Java, Python, C/C++, and Agile methodologies, among other areas. I enjoy solving challenging problems and continuously learning to enhance my craft.
-
-Contact
 Email: kevin.simmons4@snhu.edu
 LinkedIn: linkedin.com/in/kevinsimmons0891
-Thank you for visiting my GitHub portfolio! Feel free to explore my projects and reach out if you have any questions or collaboration opportunities.
+Resume: Available upon request or in pinned repositories
